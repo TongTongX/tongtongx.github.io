@@ -18,11 +18,11 @@ My research interests mainly focus on reinforcement learning (RL) and its applic
 Publications
 ======
 - **An Empirical Study of Model-Free Exploration for Deep Reinforcement Learning**  
-  MSc thesis. [[link](http://xutong.github.io/files/Zhao_Xutong_202109_MSc.pdf)]  
+  MSc thesis. [[link](http://tongtongx.github.io/files/Zhao_Xutong_202109_MSc.pdf)]  
   *Parts of this thesis are to be submitted as a journal paper.*
 
 - **No More Pesky Hyperparameters: Offline Hyperparameter Tuning for RL**  
-  Han Wang, Archit Sakhadeo, Adam M White, *Xutong Zhao*, James M Bell, Puer Liu, Nathan Taylor, Alona Fyshe, Martha White. [[link](http://xutong.github.io/files/no_more_pesky_hyperparameters_.pdf)]
+  Han Wang, Archit Sakhadeo, Adam M White, *Xutong Zhao*, James M Bell, Puer Liu, Nathan Taylor, Alona Fyshe, Martha White. [[link](http://tongtongx.github.io/files/no_more_pesky_hyperparameters_.pdf)]
 
 
 Teaching
