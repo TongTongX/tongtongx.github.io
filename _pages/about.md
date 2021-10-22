@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a first year PhD student at Mila and Polytechnique Montréal, supervised by Prof. [Sarath Chandar](http://sarathchandar.in/). I completed my MSc program at the University of Alberta, where I was supervised by Prof. [Adam White](https://sites.ualberta.ca/~amw8/). Previously I was a research intern at Deepmind Montréal mentored by Daniel Toyama.
+I am a first year PhD student at Mila and Polytechnique Montréal, supervised by Prof. [Sarath Chandar](http://sarathchandar.in/). I completed my MSc program at the University of Alberta, where I was supervised by Prof. [Adam White](https://sites.ualberta.ca/~amw8/). Previously I was a research intern at Deepmind Montréal mentored by [Daniel Toyama](https://github.com/kenjitoyama).
 
 My research interests mainly focus on reinforcement learning (RL) and its applications. I am currently working on RL in the continual learning and multiagent learning settings. I previously worked on [AndroidEnv](https://deepmind.com/research/publications/2021/androidenv), an open-source platform for RL research.
 
