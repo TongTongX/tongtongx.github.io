@@ -17,27 +17,27 @@ My research interests span reinforcement learning, multi-agent systems, and foun
 
 Publications
 ======
-- **Conditionally optimistic exploration for cooperative deep multi-agent reinforcement learning**
-  Xutong Zhao, Yangchen Pan, Chenjun Xiao, Sarath Chandar, Janarthanan Rajendran
-  UAI 2023
+- **Conditionally optimistic exploration for cooperative deep multi-agent reinforcement learning**\
+  Xutong Zhao, Yangchen Pan, Chenjun Xiao, Sarath Chandar, Janarthanan Rajendran\
+  UAI 2023\
   [paper](https://proceedings.mlr.press/v216/zhao23b.html), [code](https://github.com/chandar-lab/COE)
 
-- **Towards Few-shot Coordination: Revisiting Ad-hoc Teamplay Challenge In the Game of Hanabi**
-  Hadi Nekoei, Xutong Zhao, Janarthanan Rajendran, Miao Liu, Sarath Chandar
-  CoLLAs 2023
+- **Towards Few-shot Coordination: Revisiting Ad-hoc Teamplay Challenge In the Game of Hanabi**\
+  Hadi Nekoei, Xutong Zhao, Janarthanan Rajendran, Miao Liu, Sarath Chandar\
+  CoLLAs 2023\
   [paper](https://arxiv.org/abs/2308.10284), [code](https://github.com/chandar-lab/adaptive-hanabi)
 
-- **Adaptive Memory Module for Sequential Planning and Reasoning**
-  Kshitij Gupta, Sean Spinney, Xutong Zhao, Janarthanan Rajendran, Patricia Conrod, Irina Rish, Sarath Chandar
+- **Adaptive Memory Module for Sequential Planning and Reasoning**\
+  Kshitij Gupta, Sean Spinney, Xutong Zhao, Janarthanan Rajendran, Patricia Conrod, Irina Rish, Sarath Chandar\
   In submission
 
-- **No More Pesky Hyperparameters: Offline Hyperparameter Tuning for RL**
-  Han Wang, Archit Sakhadeo, Adam M White, James M Bell, Vincent Liu, Xutong Zhao, Puer Liu, Tadashi Kozuno, Alona Fyshe, Martha White
-  TMLR 2022
+- **No More Pesky Hyperparameters: Offline Hyperparameter Tuning for RL**\
+  Han Wang, Archit Sakhadeo, Adam M White, James M Bell, Vincent Liu, Xutong Zhao, Puer Liu, Tadashi Kozuno, Alona Fyshe, Martha White\
+  TMLR 2022\
   [paper](https://openreview.net/forum?id=AiOUi3440V)
 
-- **An Empirical Study of Model-Free Exploration for Deep Reinforcement Learning**
-  MSc thesis. *Parts of this thesis are to be submitted as a journal paper.*
+- **An Empirical Study of Model-Free Exploration for Deep Reinforcement Learning**\
+  MSc thesis. *Parts of this thesis are to be submitted as a journal paper.*\
   [link](https://era.library.ualberta.ca/items/62856864-ca18-4846-91d5-30267278f39d)
 
 
